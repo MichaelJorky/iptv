@@ -1,0 +1,362 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-logo="https://i.imgur.com/ENImp3R.png" group-title="Kids",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Kids",ARB Günəş [Geo-blocked]
+http://149.255.152.199/arbgunes.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" tvg-logo="https://i.imgur.com/XjhkUXy.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Armenia Տուն Թունիկ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" tvg-logo="https://i.imgur.com/mrfm9uY.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",ATV ԽաղԱլիք (234p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://i.imgur.com/fvVovnc.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Baby TV Asia (Vietnamese dub) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/nRxEDn2.png" group-title="Kids",Balastan (576p)
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (480p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-id="BoingItaly.it" tvg-logo="https://i.imgur.com/LHMHIpp.png" group-title="Kids",Boing Italy [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1 tvg-id="BoingSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/512px-Boing_2020.svg.png" group-title="Kids",Boing Spain
+http://149.62.177.157:8000/play/a010
+#EXTINF:-1 tvg-id="BoomerangFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang France (720p)
+http://51.81.185.2/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVCountryBoyKidsVideo.us" tvg-logo="https://i.imgur.com/p14DjHo.png" group-title="Kids",Bumblebee TV Country Boy Kids Video (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Bumblebee TV Cute Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVFGTV.us" tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",Bumblebee TV FGTV (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVFunZone.us" tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Bumblebee TV Fun Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVGiggleZone.us" tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Kids",Bumblebee TV Giggle Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVLegoToons.us" tvg-logo="https://i.imgur.com/rJSGKnh.png" group-title="Kids",Bumblebee TV Lego Toons (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVLetsPlayMinecraft.us" tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="Kids",Bumblebee TV Lets Play Minecraft (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVMasterBuilder.us" tvg-logo="https://i.imgur.com/KQsAdB4.png" group-title="Kids",Bumblebee TV Master Builder (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVToyZone.us" tvg-logo="https://i.imgur.com/XdNjsrr.png" group-title="Kids",Bumblebee TV Toy Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="Kids",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabia (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkTaiwan.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Taiwan (CN卡通频道) (720p)
+http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 tvg-id="CartoonNetworkVietnam.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Cartoon Network Vietnam [Geo-blocked] (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network West TVE Feed (720p) [Geo-Blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoItaly.it" tvg-logo="https://i.imgur.com/sZDXfWq.png" group-title="Kids",Cartoonito Italy [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids",CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",CBeebies Asia (Vietnamese dub) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV (480p)
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR=
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Cocoro.us" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids;Religious",Dios Te Ve Infantil (720p)
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckTV.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",Duck TV (576p)
+http://85.11.144.8:5666/DuckTV?token=test
+#EXTINF:-1 tvg-id="EBCYOYO.tw" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="Kids",EBC Yoyo (東森幼幼台) (720p)
+http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p)
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="Kids",Gulli Bil Arabi (1080p)
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",HappyKids (1080p)
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-logo="https://i.imgur.com/GSlfL8u.png" group-title="Kids",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Kids",Jojko (1080p)
+https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
+#EXTINF:-1 tvg-id="kabillion.us" tvg-logo="https://i.imgur.com/8CaZXh5.png" group-title="Kids",kabillion (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonCircus.us" tvg-logo="https://i.imgur.com/K2TH3k9.png" group-title="Kids",Kartoon Circus (720p)
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:-1 tvg-id="KetnetJunior.be" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Kids",Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsClick.us" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="Kids",KidsClick (720p) [Geo-blocked]
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Kids",KidsFlix (1080p) [Not 24/7]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="Education;Kids",Knowledge (720p) [Geo-blocked]
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="Kids",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LollyKids.uk" tvg-logo="https://i.imgur.com/DOpgaBe.png" group-title="Kids",Lolly Kids (480p)
+http://45.225.95.170:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-id="LoloTV.lv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/LoloTV_logo_2019.png" group-title="Animation;Kids",LoLo TV (576p)
+https://venera.greenhosting.ru/LoLoLV/video.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids (720p)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/UgDTRNv.png" group-title="Kids",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Animation;Kids;Music",MCN6 Music Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="MondoKids.it" tvg-logo="https://i.imgur.com/g7GXmFY.png" group-title="Kids",Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Education;Kids",NCM Educational & Kids Channel
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickJrIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAustralia.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon Australia (576p)
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons Scandinavia
+http://89.254.128.5:22280/nicktoons/video.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1 tvg-id="PlanetaJuniorTVSpain.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="Kids",Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/v5zkh4T.png" group-title="Kids",PlanetaTV Kids (1080p)
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimakidsSpain.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Pluto TV Animakids (Spain) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Pluto TV BabyFirst (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="BeybladeBurstGermany.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" group-title="Kids",Pluto TV Beyblade Burst Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BlazeunddieMonsterMaschinenNickGermany.de" tvg-logo="https://i.imgur.com/mMj4wOj.png" group-title="Kids",Pluto TV Blaze Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BluesCluesGermany.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" group-title="Kids",Pluto TV Blue's Clues Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="BoblepongeFrance.fr" tvg-logo="https://i.imgur.com/ITwU1yZ.png" group-title="Kids",Pluto TV Bob l'éponge (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVBubbleGuppies.us" tvg-logo="https://i.imgur.com/qMrbuXb.png" group-title="Kids",Pluto TV Bubble Guppies (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Pluto TV Classic Nick (Brazil) (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-id="ClassicToonsTV.us" tvg-logo="https://i.imgur.com/TDzIR8G.png" group-title="Kids",Pluto TV Classic Toons TV (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=562ea53fa9060c5a7d463e74&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=548&terminate=false&userId=
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Pluto TV Dora TV (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-logo="https://i.imgur.com/EnmlANj.png" group-title="Kids",Pluto TV Garfield (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="iCarlyFrance.fr" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="Kids",Pluto TV iCarly (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="iCarlyGermany.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" group-title="Kids",Pluto TV iCarly (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=
+#EXTINF:-1 tvg-id="iCarlyPlusGermany.de" tvg-logo="https://i.imgur.com/Wy73ywD.png" group-title="Kids",Pluto TV iCarly+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVJuniorFrance.fr" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Kids",Pluto TV Junior (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids",Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsAnimationFrance.fr" tvg-logo="https://i.imgur.com/xYYJwTz.png" group-title="Kids",Pluto TV Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-logo="https://i.imgur.com/l1d9j4d.png" group-title="Kids",Pluto TV Kids Animation (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ad56edc89300090d2ebb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=976&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsCollection.us" tvg-logo="https://i.imgur.com/ZDFtuOT.png" group-title="Kids",Pluto TV Kids Collection (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsSeriesFrance.fr" tvg-logo="https://i.imgur.com/twXueoi.png" group-title="Kids",Pluto TV Kids Séries (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Pluto TV Nick (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca673e0d0bd6c2689c94ce3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=977&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickClasico.us" tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="Kids",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="EmmaeinfachmagischNickGermany.de" tvg-logo="https://i.imgur.com/AYlN745.png" group-title="Kids",Pluto TV Nick Emma einfach magisch! (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Kids",Pluto TV Nick Jr. (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6748a37b88b269472dad9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=978&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickJrClubBrazil.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Kids",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Kids",Pluto TV Nick Jr. Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickRewindGermany.de" tvg-logo="https://i.imgur.com/Bw8rdAb.png" group-title="Kids",Pluto TV Nick Rewind (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVPlanetaJuniorTV.us" tvg-logo="https://i.imgur.com/lBXn36t.png" group-title="Kids",Pluto TV Planeta Junior TV (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Kids",Pluto TV Retro Toons (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVRugrats.us" tvg-logo="https://i.imgur.com/ZVtPBXM.png" group-title="Kids",Pluto TV Rugrats (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="Kids",Pluto TV Rugrats Crecidos (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVSamCat.us" tvg-logo="https://i.imgur.com/0lL09lW.png" group-title="Kids",Pluto TV Sam & Cat (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVSpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/8gR5jPf.png" group-title="Kids",Pluto TV SpongeBob Schwammkopf (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeen.us" tvg-logo="https://i.imgur.com/lNJ5p5e.png" group-title="Kids",Pluto TV Teen (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeenStarsSpain.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TeenNickGermany.de" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Kids",Pluto TV TeenNick (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Pluto TV Totally Turtles (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTween.us" tvg-logo="https://i.imgur.com/VMiuJqG.png" group-title="Kids",Pluto TV Tween (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",pocket.watch (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/SXPFPrG.png" group-title="Kids",Rai YoYo (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="Kids",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids",Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV 2 Kids (1080p)
+https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1 tvg-id="SkwadPlay.us" tvg-logo="https://i.imgur.com/cP56PrG.png" group-title="Kids",SKWAD (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="Animation;Kids",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperBrothersandSistersItaly.it" tvg-logo="https://i.imgur.com/t4mepW4.png" group-title="Kids",Super! Brothers and Sisters Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperEroiItaly.it" tvg-logo="https://i.imgur.com/7GId79m.png" group-title="Kids",Super! Eroi Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperiCarlyItaly.it" tvg-logo="https://i.imgur.com/IWcQfF2.png" group-title="Kids",Super! iCarly Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperMysteryItaly.it" tvg-logo="https://i.imgur.com/E1Ix83n.png" group-title="Kids",Super! Mystery Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192624035f3910007fc7305/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperPapaItaly.it" tvg-logo="https://i.imgur.com/0XvgJKg.png" group-title="Kids",Super! Papà Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263124a270700077c9471/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperPopItaly.it" tvg-logo="https://i.imgur.com/2FfREQE.png" group-title="Kids",Super! Pop Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperSpongeBobItaly.it" tvg-logo="https://i.imgur.com/65wxNn4.png" group-title="Kids",Super! SpongeBob Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperStarItaly.it" tvg-logo="https://i.imgur.com/b4ck4Fg.png" group-title="Kids",Super! Star Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="TahaTV.lb" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids",Taha TV (360p) [Not 24/7]
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Animation;Kids;Religious",Three Angels Broadcasting Network Kids Network (3ABN) (720p)
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 tvg-id="TiJi.fr" tvg-logo="https://i.imgur.com/ZjsfAGb.png" group-title="Kids",Tiji (1080p)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids",Toon Goggles (720p) [Not 24/7]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonmaxTV.cn" tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Kids",Toonmax TV (576p)
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TV2Kids.hu" tvg-logo="https://i.imgur.com/Zltlezm.png" group-title="Kids",TV2 Kids (576p)
+http://146.59.85.40:89/tv2kids/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kids",TV Arbëria 3 Fëmijë (720p)
+http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Kids",TVG Infantil (720p) [Not 24/7]
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops (720p)
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network (480p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="WatchitKID.us" tvg-logo="https://i.imgur.com/YNx0j1b.png" group-title="Kids",Watch It Kid (486p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelRussia.ru" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="Kids",Канал Disney (576p) [Not 24/7]
+http://188.40.68.167/russia/disney/playlist.m3u8
+#EXTINF:-1 tvg-id="Karusel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Карусель (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="LyubimoeTV.ru" tvg-logo="https://i.imgur.com/JJv81ZP.png" group-title="Kids",Любимое.ТВ (720p) [Geo-blocked]
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-logo="https://i.imgur.com/DKd38TF.png" group-title="Kids",Мультиландия (576p) [Geo-blocked]
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 tvg-id="O.ru" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="Kids",О! (576p) [Not 24/7]
+https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Рыжий (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" group-title="Kids",Смайлик ТВ (720p) [Not 24/7]
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="CTCKids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Kids",СТС Kids (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Тамыр (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="Animation;Kids",优漫卡通 (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-id="ShandongTVChildrensChannel.cn" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="Kids",山东少儿 (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
+https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="Animation;Kids",金鹰卡通 (湖南) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8

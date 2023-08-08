@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p) [Not 24/7]
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe (1080p)
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:-1 tvg-id="ChurchofUgandaFamilyTelevision.ug" tvg-logo="https://pbs.twimg.com/profile_images/1455134164353757187/RYfGkxkO_400x400.jpg" group-title="Family;Religious",COU Family Television (720p)
+https://media.streambrothers.com:19360/8028/8028.m3u8
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Family;General",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliChannel.co" tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="Family",Famili Channel (720p)
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="Family",FilmRise Family (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Family",HBO Family Asia (720p)
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="Family",Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Family",JOJ Family (360p) [Not 24/7]
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Family",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-logo="https://i.imgur.com/H6IRGOd.png" group-title="Family",Pink Family (576p)
+http://109.105.201.198/PINKFAMILY/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFamily.us" tvg-logo="https://i.imgur.com/JZwXvUR.png" group-title="Family",Pluto TV Family (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="Family",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesItaly.it" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFrance.fr" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family (720p)
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesAustria.at" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Movies Austria (720p)
+https://rakuten-family-5-at.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSwitzerland.ch" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
+https://rakuten-family-4-ch.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFinland.fi" tvg-logo="https://i.imgur.com/6vaHKgT.png" group-title="Family;Movies",Rakuten TV Perhe
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.us" tvg-logo="https://i.imgur.com/uoWrh7e.png" group-title="Family",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamiliesAustralia.us" tvg-logo="https://i.imgur.com/fV9UC2U.png" group-title="Family",Real Families (Australia) (720p)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Family;Movies;Series",Tela Viva (360p)
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;General",Telenovisa 43
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Family",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="Family",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective International
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveItaly.it" tvg-logo="https://i.imgur.com/MU21Zva.png" group-title="Family",The Pet Collective Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="Family",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Family;Religious",TV Famille (720p)
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",СТС (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-id="CTCLove.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Family",СТС Love (480p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8

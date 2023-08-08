@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (576p)
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bounty
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel200.nz" tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="Entertainment",Channel 200 (540p)
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",CNBC Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drybar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Firstlight.nz" tvg-logo="https://i.imgur.com/2TKL6BX.png" group-title="Religious",Firstlight (576p)
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ISSO New Zealand Daily Darshan Auckland [Not 24/7]
+https://ythls.onrender.com/channel/UCXvs0ohLDctzFbbEGCQg-rQ.m3u8
+#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="Undefined",Juice TV (1080p) [Not 24/7]
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="Undefined",Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Stories TV
+https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Magellen TV
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MISTelevizija.rs" tvg-logo="https://i.imgur.com/TWAxTiF.png" group-title="Undefined",MIS Televizija (720p) [Not 24/7]
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mtrspt 1
+https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAustralia.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon Australia (576p)
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative",Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Life
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Rialto.nz" tvg-logo="https://i.imgur.com/wGw0sGu.png" group-title="Undefined",Rialto (1080p)
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rush.nz" tvg-logo="https://i.imgur.com/q7kj4jo.png" group-title="Undefined",Rush NZ [Not 24/7]
+https://ythls.onrender.com/channel/UCCfrC8pO_GxBO_29C6r1a3g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Turn On NZ [Not 24/7]
+https://ythls.onrender.com/channel/UCi0UQziRcKI6hHjLaV8_bOg.m3u8
+#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="Undefined",TVE Internacional Asia-Oceania (576p)
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1 tvg-id="TVNZ1.nz" tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="General",TVNZ 1 [Geo-blocked]
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-id="TVNZ2.nz" tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="General",TVNZ 2 [Geo-blocked]
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-id="TVNZDUKE.nz" tvg-logo="https://i.imgur.com/tJf9DEI.png" group-title="General",TVNZ Duke [Geo-blocked]
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shop",TVSN (1080p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz" tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="Undefined",Wairarapa TV (1080p) [Not 24/7]
+https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
